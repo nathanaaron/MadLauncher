@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.1.4",
@@ -2107,6 +2107,17 @@
             "size": 64009,
             "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/required/YungsApi-1.16.4-Forge-4.jar",
             "MD5": "cc600a4d76dc0b9374a1b46137a5d8c6"
+          }
+        },
+        {
+          "id": "BSL_v7.2.01pre2.zip",
+          "name": "BSL_v7.2.01pre2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 912015,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/files/shaderpacks/BSL_v7.2.01pre2.zip",
+            "MD5": "a3144217872344b285b724c8bcd2ecd2",
+            "path": "shaderpacks/BSL_v7.2.01pre2.zip"
           }
         }
       ]
