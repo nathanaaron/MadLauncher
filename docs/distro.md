@@ -12,7 +12,7 @@ The distribution index is written in JSON. The general format of the index is as
         "smallImageText": "WesterosCraft",
         "smallImageKey": "seal-circle"
     },
-    "rss": "https://westeroscraft.com/articles/index.rss",
+    "rss": "https://testCraft.com/articles/index.rss",
     "servers": [
         {
             "id": "Example_Server",
