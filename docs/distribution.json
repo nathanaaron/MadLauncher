@@ -11,7 +11,7 @@
       "id": "MaddLads-Forge-1.16.5",
       "name": "MaddLads-Forge (Minecraft 1.16.5)",
       "description": "MaddLads-Forge Running Minecraft 1.16.5 (Forge v36.1.4)",
-      "icon": "http://mc.maddlads.com/images/serverimg.png",
+      "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
@@ -1624,6 +1624,19 @@
             "size": 23859,
             "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/required/OpenLoader-1.16.5-9.0.3.jar",
             "MD5": "2a30d8f469ea9bf212d7d7835a5c04a4"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5924305,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
