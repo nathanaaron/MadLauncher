@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "303357743576776704",
+    "smallImageText": "Mad Lads",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
       "id": "MaddLads-Forge-1.16.5",
-      "name": "MaddLads-Forge (Minecraft 1.16.5)",
-      "description": "MaddLads-Forge Running Minecraft 1.16.5 (Forge v36.1.4)",
+      "name": "MadLads Forge Production Server",
+      "description": "Official MaddLads Forge Server. Connect to become a Mad Lad!",
       "icon": "http://mc.maddlads.com/images/serverimg.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "Production",
+        "largeImageText": "MaddLads Production Server",
+        "largeImageKey": "ML-Prod1"
       },
       "mainServer": true,
       "autoconnect": true,
