@@ -1627,19 +1627,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8_pre11@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6040147,
-            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8_pre11.jar",
-            "MD5": "b124e60fd64d6ea3885a8a0be38271e0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "subaraki.paintings.mod:paintings:1.16.4-6.0.1.5@jar",
           "name": "Paintings ++",
           "type": "ForgeMod",
