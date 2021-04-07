@@ -764,6 +764,16 @@
           }
         },
         {
+          "id": "codechicken.lib:codechickenlib:3.5.1.408@jar",
+          "name": "CodeChicken Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 611435,
+            "url": "http://localhost:8080/servers/MaddLads-Forge-1.16.5/forgemods/required/CodeChickenLib-1.16.4-3.5.1.408-universal.jar",
+            "MD5": "8b8a3845e8c8268b5b8a31b7d86a0c69"
+          }
+        },
+        {
           "id": "cofh.core:cofh_core:1.2.1@jar",
           "name": "CoFH Core",
           "type": "ForgeMod",
@@ -1364,6 +1374,16 @@
             "size": 22011,
             "url": "http://localhost:8080/servers/MaddLads-Forge-1.16.5/forgemods/required/leap-1.16.4-1.1.1.jar",
             "MD5": "8f366f69ee8bee642f0cdeb8d1636e92"
+          }
+        },
+        {
+          "id": "io.github.noeppi_noeppi:libx:1.16.3-1.0.25@jar",
+          "name": "LibX",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 189277,
+            "url": "http://localhost:8080/servers/MaddLads-Forge-1.16.5/forgemods/required/LibX-1.16.3-1.0.25.jar",
+            "MD5": "69d54676767acfea55ecdc40b097da7f"
           }
         },
         {
