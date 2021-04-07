@@ -11,7 +11,7 @@
       "id": "MaddLads-Forge-1.16.5",
       "name": "MaddLads-Forge (Minecraft 1.16.5)",
       "description": "MaddLads-Forge Running Minecraft 1.16.5 (Forge v36.1.4)",
-      "icon": null,
+      "icon": "http://mc.maddlads.com/images/serverimg.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
