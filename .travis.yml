@@ -43,3 +43,23 @@ before_cache:
 branches:
   except:
     - "/^v\\d+\\.\\d+\\.\\d+$/"
+
+
+before_deploy:
+  - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
+  - if ! [[ $TRAVIS_TAG ]]; then
+  -   git config --local user.name "nathanaaron"
+  -   git config --local user.email "nathan@naaron.com"
+  -   git tag $TRAVIS_TAG
+  - fi
+
+deploy:
+  provider: releases
+  api_key: "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"
+  file:
+    - dist/dist/MadLads Launcher-setup-1.8.0.exe.blockmap
+    - dist/MadLads Launcher-setup-1.8.0.exe
+    - dist/latest.yml
+  skip_cleanup: true
+  on:
+    tags: true
