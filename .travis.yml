@@ -42,7 +42,6 @@ before_cache:
 
 branches:
   only:
-    - master
     - /v\d+\.\d+[a-z]/
 
 deploy:
@@ -58,4 +57,4 @@ deploy:
   draft: true
   skip_cleanup: true
   on:
-    tags: true
+    branch: master
