@@ -42,6 +42,7 @@ before_cache:
 
 branches:
   only:
+    - master
     - /v\d+\.\d+[a-z]/
 
 deploy:
