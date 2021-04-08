@@ -46,9 +46,11 @@ branches:
 
 deploy:
   provider: releases
-  api_key: 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
+  github-token: $GITHUB_TOKEN
   file:
     - dist/dist/MadLads Launcher-setup-1.8.0.exe.blockmap
     - dist/MadLads Launcher-setup-1.8.0.exe
     - dist/latest.yml
   skip_cleanup: true
+  on:
+    branch: master
