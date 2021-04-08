@@ -46,12 +46,15 @@ branches:
 
 deploy:
   provider: releases
+  # ⋮
+  edge: true
   github-token: $GITHUB_TOKEN
   file:
-    - dist/dist/MadLads Launcher-setup-1.8.0.exe.blockmap
+    - dist/MadLads Launcher-setup-1.8.0.exe.blockmap
     - dist/MadLads Launcher-setup-1.8.0.exe
+    - dist/MadLads Launcher-setup-1.8.0.dmg
     - dist/latest.yml
+  draft: true
   skip_cleanup: true
   on:
-    branch: master
     tags: true
