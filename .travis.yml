@@ -52,5 +52,3 @@ deploy:
     - dist/MadLads Launcher-setup-1.8.0.exe
     - dist/latest.yml
   skip_cleanup: true
-  on:
-    tags: true
