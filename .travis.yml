@@ -51,4 +51,3 @@ deploy:
   on:
     tags: true
     repo: nathanaaron/MadLauncher
-    all_branches: true
