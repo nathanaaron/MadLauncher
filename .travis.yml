@@ -41,11 +41,12 @@ before_cache:
   - rm -rf $HOME/.cache/electron-builder/wine
 
 branches:
-  only:
+    only:
     - master
     - /v\d+\.\d+[a-z]/
 
 deploy:
+  provider: releases
   github-token: $GITHUB_TOKEN
   file:
     - dist/MadLads Launcher-setup-1.8.0.exe.blockmap
