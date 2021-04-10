@@ -13,7 +13,7 @@
       "description": "Official MaddLads Forge Server. Connect to become a Mad Lad!",
       "icon": "http://mc.maddlads.com/images/serverimg.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "mc.maddlads.com",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Production",
