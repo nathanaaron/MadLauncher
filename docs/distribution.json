@@ -1726,9 +1726,9 @@
           "type": "File",
           "artifact": {
             "size": 6040147,
-            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/files/preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
             "MD5": "b124e60fd64d6ea3885a8a0be38271e0",
-            "Path": "OptiFine.jar"
+            "Path": "preview_OptiFine_1.16.5_HD_U_G8_pre11.jar"
           },
           "required": {
             "value": false,
