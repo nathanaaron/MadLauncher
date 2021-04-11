@@ -1516,7 +1516,8 @@ input:checked + .toggleSwitchSlider:before {
 /* Mod elements sub-containers. */
 #settingsReqModsContainer,
 #settingsOptModsContainer,
-#settingsDropinModsContainer {
+#settingsDropinModsContainer,
+#settingsShadersContainer {
     padding-bottom: 25px;
 }
 
@@ -1728,7 +1729,7 @@ input:checked + .toggleSwitchSlider:before {
 
 /* Options content container. */
 .settingsSelectOptions {
-    position: absolute;
+    position: initial;
     top: 100%;
     left: 0;
     right: 0;

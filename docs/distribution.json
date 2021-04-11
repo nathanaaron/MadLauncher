@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "379552e7b74f557fcca54024ba6c6934",
+                "MD5": "9c19de3855babb4598fef7fd1e97e753",
                 "url": "http://maddlads.com/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -1627,6 +1627,34 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5924305,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "io.github.zekerzhayard:optiforge:0.5.5@jar",
+          "name": "OptiForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 185043,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/OptiForge-MC1.16.5-0.5.5.jar",
+            "MD5": "8586a9976222040e3e37b2af4c5a2686"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "subaraki.paintings.mod:paintings:1.16.4-6.0.1.5@jar",
           "name": "Paintings ++",
           "type": "ForgeMod",
@@ -2110,14 +2138,14 @@
           }
         },
         {
-          "id": "BSL_v7.2.01pre2.zip",
-          "name": "BSL_v7.2.01pre2.zip",
+          "id": "SEUS-Renewed-v1.0.1.zip",
+          "name": "SEUS-Renewed-v1.0.1.zip",
           "type": "File",
           "artifact": {
-            "size": 912015,
-            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/files/shaderpacks/BSL_v7.2.01pre2.zip",
-            "MD5": "a3144217872344b285b724c8bcd2ecd2",
-            "path": "shaderpacks/BSL_v7.2.01pre2.zip"
+            "size": 7062638,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/files/SEUS-Renewed-v1.0.1.zip",
+            "MD5": "8faeb04d9953c9b10b0794acafc4c1aa",
+            "path": "SEUS-Renewed-v1.0.1.zip"
           }
         }
       ]
