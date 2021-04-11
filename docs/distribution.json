@@ -1627,20 +1627,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8_pre11@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6040147,
-            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G8_pre11.jar",
-            "MD5": "b124e60fd64d6ea3885a8a0be38271e0"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "io.github.zekerzhayard:optiforge:0.5.5@jar",
           "name": "OptiForge",
           "type": "ForgeMod",
@@ -1732,6 +1718,20 @@
             "size": 1192090,
             "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/required/Powah-1.16.5-2.3.16.jar",
             "MD5": "d3847b91959b771d2a555619733966c0"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G8_pre11@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6040147,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
+            "MD5": "b124e60fd64d6ea3885a8a0be38271e0"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
