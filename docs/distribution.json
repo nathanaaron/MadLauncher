@@ -1723,7 +1723,7 @@
         {
           "id": "net.optifine:optifine:1.16.5_HD_U_G8_pre11@jar",
           "name": "OptiFine",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 6040147,
             "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
