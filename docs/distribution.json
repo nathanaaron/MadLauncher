@@ -1627,13 +1627,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
+          "id": "net.optifine:optifine:1.16.5_HD_U_G8_pre11@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5924305,
-            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G7.jar",
-            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+            "size": 6040147,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G8_pre11.jar",
+            "MD5": "b124e60fd64d6ea3885a8a0be38271e0"
           },
           "required": {
             "value": false,
