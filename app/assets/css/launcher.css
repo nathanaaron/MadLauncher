@@ -40,6 +40,18 @@ p {
     -webkit-margin-after: 0em;
 }
 
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: darkred;
+}
+
 /* Set default font and color. */
 body, button {
     font-family: 'Avenir Book';
