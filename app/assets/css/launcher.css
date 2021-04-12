@@ -41,7 +41,7 @@ p {
 }
 
 a:link {
-    color: red;
+    color: white;
 }
 
 a:visited {
@@ -1683,6 +1683,18 @@ input:checked + .toggleSwitchSlider:before {
 /* Wrapper container. */
 #settingsShaderpackWrapper {
     display: flex;
+}
+
+.settingsShaderpackInstall {
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(126, 126, 126, 0.57);
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.25s ease;
+    font-size: 14px;
+    padding: 6px 11px;
+    margin-right: 5px;
 }
 
 /* Button to add shaderpacks. */
