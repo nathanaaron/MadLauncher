@@ -1627,20 +1627,6 @@
           }
         },
         {
-          "id": "io.github.zekerzhayard:optiforge:0.5.5@jar",
-          "name": "OptiForge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 185043,
-            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/optionaloff/OptiForge-MC1.16.5-0.5.5.jar",
-            "MD5": "8586a9976222040e3e37b2af4c5a2686"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "subaraki.paintings.mod:paintings:1.16.4-6.0.1.5@jar",
           "name": "Paintings ++",
           "type": "ForgeMod",
@@ -1718,21 +1704,6 @@
             "size": 1192090,
             "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/required/Powah-1.16.5-2.3.16.jar",
             "MD5": "d3847b91959b771d2a555619733966c0"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8_pre11@jar",
-          "name": "OptiFine",
-          "type": "File",
-          "artifact": {
-            "size": 6040147,
-            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/files/preview_OptiFine_1.16.5_HD_U_G8_pre11.jar",
-            "MD5": "b124e60fd64d6ea3885a8a0be38271e0",
-            "Path": "preview_OptiFine_1.16.5_HD_U_G8_pre11.jar"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
