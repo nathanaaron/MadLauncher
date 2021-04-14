@@ -2074,6 +2074,16 @@
           }
         },
         {
+          "id": "com.sk89q:worldedit:7.2.4+5723-e3bfc64@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5467043,
+            "url": "http://maddlads.com/servers/MaddLads-Forge-1.16.5/forgemods/required/worldedit-mod-7.2.4.jar",
+            "MD5": "c7be0972dbecde6ecdc2119dd570a29b"
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:21.5.0@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
