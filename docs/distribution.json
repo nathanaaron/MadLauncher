@@ -8,17 +8,17 @@
   },
   "servers": [
     {
-      "id": "MaddLads-Forge-1.16.5",
-      "name": "MadLads Forge Production Server",
-      "description": "Official MaddLads Forge Server. Connect to become a Mad Lad!",
+      "id": "ML-Forge",
+      "name": "Madd-ForgeCraft",
+      "description": "MaddLads Modded Forge Server. Where Degenerates Come to Play.",
       "icon": "http://mc.maddlads.com/images/serverimg.png",
-      "version": "1.0.0",
-      "address": "mc.maddlads.com",
+      "version": "1.2.0",
+      "address": "mc.maddlads.com:25570",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "Production",
-        "largeImageText": "MaddLads Production Server",
-        "largeImageKey": "ML-Prod1"
+        "shortId": "MC-Forge",
+        "largeImageText": "MaddLads Forge",
+        "largeImageKey": "MC-Forge01"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -2120,6 +2120,25 @@
           }
         }
       ]
-    }
+    
+
+    },
+    {
+      "id": "ML-Vanilla",
+      "name": "Madd-VanillaCraft",
+      "description": "MaddLads Vanilla Survival Server. ",
+      "icon": "http://mc.maddlads.com/images/serverimg.png",
+      "version": "1.0.0",
+      "address": "mc.maddlads.com:25565",
+      "minecraftVersion": "1.18.2",
+      "discord": {
+          "shortId": "MC-Vanilla",
+          "largeImageText": "MaddLads Vanilla",
+          "largeImageKey": "MC-Vanilla01"
+      },
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": []
+  }
   ]
 }
